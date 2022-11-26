@@ -1,0 +1,105 @@
+body {
+  background-color: rgb(84, 16, 160) !important;
+}
+
+.todo {
+  width: 70%;
+  margin: 200px auto;
+  border-radius: 15px;
+  background-color: white;
+  padding: 30px;
+}
+
+.table th {
+  border-top: none;
+}
+
+form {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input {
+  display: inline-block;
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+.add {
+  box-sizing: border-box;
+  width: 7%;
+  margin-left: 70px;
+  background-color: white;
+  border: 2px solid;
+  border-color: rgb(230, 116, 230);
+  color:rgb(230, 116, 230);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.table {
+  width: 95%;
+  margin: 10px auto;
+  text-align: center;
+}
+
+td {
+  background-color: white;
+}
+
+.btn-danger {
+  background-color: white;
+  border: 2px solid aqua;
+  color: aqua;
+  padding: 5px 10px;
+}
+
+.btn-danger:hover {
+  background-color: aqua;
+  color: white;
+  border: 2px solid aqua;
+}
+
+.logout {
+  width: 120px;
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 5px;
+  color: red !important;
+  text-align: center;
+}
+
+.main-nav {
+  display: flex;
+}
+
+.title {
+  width: 60%;
+}
+
+.log-name {
+  align-items: center;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.select {
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 0 20px;
+}
+
+.task {
+  padding-bottom: 15px;
+}
+
+.search {
+  width: 100%;
+}
+
+.form-control {
+  width: 70% !important;
+}
