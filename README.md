@@ -1,6 +1,9 @@
 # アプリケーション名
 TodoList
 
+<img width="1308" alt="Todoリスト見本" src="https://user-images.githubusercontent.com/55370161/204138277-14a1da8b-cbc4-4a0f-aa65-7181e72ff6de.png">
+
+
 ## 説明
 タスクの追加や更新ができるアプリ
 ジャンルの選択もでき、
