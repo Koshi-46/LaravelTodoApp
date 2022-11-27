@@ -25,6 +25,7 @@ http://laraveltodoapp.link/todo
 - MariaDB 8.0.30 
 - composer 2.3.10
 - Nginx
+### インフラ
 - AWS
   - VPC
   - EC2
