@@ -17,8 +17,8 @@ http://laraveltodoapp.link/todo
 
 ## 使用技術
 ### フロントエンド
-・HTML  
-・CSS    
+- HTML  
+- CSS    
 ### バックエンド
 - PHP 8.1.9  
 - Laravel　8.83.26  
